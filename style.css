@@ -1,0 +1,41 @@
+body{
+    background-color: azure;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+}
+li{
+    padding: 2px;
+    margin: 2px;
+    list-style: none;
+}
+#first{
+    text-align: center;
+}
+.parent{
+    display: flex;
+}
+.four{
+    padding: 10px;
+    text-align: center;
+    border: ;
+    
+}
+button{
+    display: inline-block;
+    background-color: gold;
+}
+.footer{
+    text-align: right;
+}
+.iframe{
+    text-align: center;
+}
+.paragraph{
+    text-align: right;
+}
